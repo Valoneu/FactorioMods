@@ -1,0 +1,1 @@
+Mod that allows you to cast with advanced furnaces so you dont need to build the spaceship flooring when u want to cast fast on planets
