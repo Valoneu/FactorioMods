@@ -1,1 +1,0 @@
-Advanced thruster suit with big grid
