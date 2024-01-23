@@ -4,3 +4,4 @@ My tweaks i use for K2SE
 
 todo:
 - not so insane scaling of spaceship research
+- merge it with the old mod
