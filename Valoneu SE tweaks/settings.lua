@@ -19,5 +19,12 @@ data:extend({
 		setting_type = "startup",
 		default_value = true,
 		order = "c"
-}
+	},
+	{
+		type = "bool-setting",
+		name = "enable-recipe-changes",
+		setting_type = "startup",
+		default_value = true,
+		order = "d"
+	}
 })
